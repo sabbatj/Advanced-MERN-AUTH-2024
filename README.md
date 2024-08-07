@@ -4,20 +4,19 @@
 
 About This Project:
 
-🔐 Signup
-🔑 Sign In
-🔄 Forgot Password
-🔁 Reset Password
-📧 Email Verification
-🚪 Logout
-✔️ JWT Authentication
-🔒 Route Protection
-📋 Signup Page UI
-🔓 Login Page UI
-✅ Email Verification Page UI
-🚀 Deployed on Render
-Email handling with Mailtrap.io.
-
+- 🔐 Signup
+- 🔑 Sign In
+- 🔄 Forgot Password
+- 🔁 Reset Password
+- 📧 Email Verification
+- 🚪 Logout
+- ✔️ JWT Authentication
+- 🔒 Route Protection
+- 📋 Signup Page UI
+- 🔓 Login Page UI
+- ✅ Email Verification Page UI
+- 🚀 Deployed on Render
+- Email handling with Mailtrap.io.
 ### Setup .env file
 
 ```bash
